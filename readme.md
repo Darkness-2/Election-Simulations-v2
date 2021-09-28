@@ -5,3 +5,4 @@ To explore 'what if' scenarios for what Canada's elections might look like under
 
 ### List of Simulations
 - First-past-the-post (FPTP) (Canada's existing system)
+- Mixed-member-proportional (MMP) (New Zealand)
